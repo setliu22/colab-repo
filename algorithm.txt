@@ -1,0 +1,4 @@
+Embeddings and vector search
+• Take string of text and turn it into an array of floating point numbers that encapsulate the semantic meaning of that text
+• Position those embeddings in high dimension space
+• Use cosine similarity distance to find close matches
